@@ -10,7 +10,7 @@
 
 	<script type="text/javascript" src ="js/jquery.js"></script>
 	<script type="text/javascript" src= "js/materialize.min.js"></script>
-	<title>IFVan - Login</title>
+	<title>IFVan - Sobre</title>
 
 </head>
 <body>

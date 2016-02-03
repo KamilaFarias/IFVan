@@ -29,12 +29,14 @@
 					<div class="input-field col s12">
 						<input id="email" type ="password" class="validate">
 						<label for="email">Senha</label>
+						
 					</div>
 				</div>
-				<div class="row">
-					<button class="btn waves-effect waves-light red accent-4 col s4 offset-4" type="submit">Login</button>
-				</div>
 			</form>
+			<div id="button_login">
+					<a href="home.jsp">
+						<button type="submit"> Login </button>				
+			</div>
 		</div>
 	</div>
 	
@@ -57,10 +59,11 @@
 					<label for="email">Senha</label>
 				</div>
 			</div>
-			<div class="row">
-				<button class="btn waves-effect waves-light green accent-4 col s4 offset-4" type="submit">Cadastro</button>
-			</div>
 		</form>
+		<div id="button_cadastrar">
+				<a href="index.jsp">
+				<button type="submit"> Cadastrar </button>				
+		</div>
 	</div>
 </body>
 </html>
